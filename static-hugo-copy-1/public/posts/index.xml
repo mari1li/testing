@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Demo for Hugo</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Demo for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Aug 2023 21:46:22 -0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thirteen</title>
+      <link>http://example.org/posts/thirteen-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 21:46:22 -0700</pubDate>
+      
+      <guid>http://example.org/posts/thirteen-copy/</guid>
+      <description>this si s13</description>
+    </item>
+    
+    <item>
+      <title>Thirteen</title>
+      <link>http://example.org/posts/thirteen/</link>
+      <pubDate>Sat, 26 Aug 2023 21:46:22 -0700</pubDate>
+      
+      <guid>http://example.org/posts/thirteen/</guid>
+      <description>this si s13</description>
+    </item>
+    
+    <item>
+      <title>Eleven</title>
+      <link>http://example.org/posts/eleven-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 21:37:41 -0700</pubDate>
+      
+      <guid>http://example.org/posts/eleven-copy/</guid>
+      <description>ehhehehe</description>
+    </item>
+    
+    <item>
+      <title>Eleven</title>
+      <link>http://example.org/posts/eleven/</link>
+      <pubDate>Sat, 26 Aug 2023 21:37:41 -0700</pubDate>
+      
+      <guid>http://example.org/posts/eleven/</guid>
+      <description>ehhehehe</description>
+    </item>
+    
+    <item>
+      <title>Ten</title>
+      <link>http://example.org/posts/ten-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 21:37:24 -0700</pubDate>
+      
+      <guid>http://example.org/posts/ten-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ten</title>
+      <link>http://example.org/posts/ten/</link>
+      <pubDate>Sat, 26 Aug 2023 21:37:24 -0700</pubDate>
+      
+      <guid>http://example.org/posts/ten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eight</title>
+      <link>http://example.org/posts/eight-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 21:33:02 -0700</pubDate>
+      
+      <guid>http://example.org/posts/eight-copy/</guid>
+      <description>This is a eightheeheheheheh</description>
+    </item>
+    
+    <item>
+      <title>Eight</title>
+      <link>http://example.org/posts/eight/</link>
+      <pubDate>Sat, 26 Aug 2023 21:33:02 -0700</pubDate>
+      
+      <guid>http://example.org/posts/eight/</guid>
+      <description>This is a eightheeheheheheh</description>
+    </item>
+    
+    <item>
+      <title>Seven</title>
+      <link>http://example.org/posts/seven-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 21:32:49 -0700</pubDate>
+      
+      <guid>http://example.org/posts/seven-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seven</title>
+      <link>http://example.org/posts/seven/</link>
+      <pubDate>Sat, 26 Aug 2023 21:32:49 -0700</pubDate>
+      
+      <guid>http://example.org/posts/seven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fif</title>
+      <link>http://example.org/posts/fif-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 21:29:13 -0700</pubDate>
+      
+      <guid>http://example.org/posts/fif-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourth</title>
+      <link>http://example.org/posts/fourth-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 17:14:24 -0700</pubDate>
+      
+      <guid>http://example.org/posts/fourth-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourth</title>
+      <link>http://example.org/posts/fourth/</link>
+      <pubDate>Sat, 26 Aug 2023 17:14:24 -0700</pubDate>
+      
+      <guid>http://example.org/posts/fourth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>http://example.org/posts/third-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 17:04:07 -0700</pubDate>
+      
+      <guid>http://example.org/posts/third-copy/</guid>
+      <description>Welcome to our Blog Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>http://example.org/posts/third/</link>
+      <pubDate>Sat, 26 Aug 2023 17:04:07 -0700</pubDate>
+      
+      <guid>http://example.org/posts/third/</guid>
+      <description>Welcome to our Blog Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/posts/secondpost-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 17:03:17 -0700</pubDate>
+      
+      <guid>http://example.org/posts/secondpost-copy/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/posts/secondpost/</link>
+      <pubDate>Sat, 26 Aug 2023 17:03:17 -0700</pubDate>
+      
+      <guid>http://example.org/posts/secondpost/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/posts/first-copy/</link>
+      <pubDate>Sat, 26 Aug 2023 16:49:29 -0700</pubDate>
+      
+      <guid>http://example.org/posts/first-copy/</guid>
+      <description>This is our first blog Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/posts/first/</link>
+      <pubDate>Sat, 26 Aug 2023 16:49:29 -0700</pubDate>
+      
+      <guid>http://example.org/posts/first/</guid>
+      <description>This is our first blog Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Your Post</title>
+      <link>http://example.org/posts/forteen/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/forteen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forteen</title>
+      <link>http://example.org/posts/forteen-copy/</link>
+      <pubDate>Fri, 26 Aug 2022 21:46:36 -0700</pubDate>
+      
+      <guid>http://example.org/posts/forteen-copy/</guid>
+      <description>hdhhhdhdhdh</description>
+    </item>
+    
+    <item>
+      <title>Fif</title>
+      <link>http://example.org/posts/fif/</link>
+      <pubDate>Thu, 26 Aug 2021 21:29:13 -0700</pubDate>
+      
+      <guid>http://example.org/posts/fif/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
